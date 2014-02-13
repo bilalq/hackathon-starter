@@ -1,0 +1,7 @@
+--ui bdd
+--reporter spec
+--growl
+--debug
+--check-leaks
+--require test/support/common
+--recursive
